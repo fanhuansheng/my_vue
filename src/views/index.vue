@@ -15,7 +15,6 @@
     <br/>
     <router-link to="/attrs">$attrs,$listeners</router-link>
     <br/>
-    <div>测试添加</div>
 
   </div>
 </template>
